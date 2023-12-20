@@ -1,5 +1,5 @@
 {
-  "name": "@michielgerritsen/email-tester-api",
+  "name": "@aidalinfo/email-tester-api",
   "version": "1.0.8",
   "description": "Access SMTP testing software (Mailhog, Mailcatcher) throug a unified API",
   "main": "index.js",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michielgerritsen/email-tester-api.git"
+    "url": "git+https://github.com/aidalinfo/email-tester-api.git"
   },
   "author": "Michiel Gerritsen",
   "license": "ISC",
