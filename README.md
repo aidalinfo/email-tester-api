@@ -1,8 +1,9 @@
 This package provides a unified API to access messages in SMTP testing software like Mailhog and Mailcatcher. This is intended to be used with Cypress.
+(Original Repo : https://github.com/michielgerritsen/email-tester-api)
 
 ## Installation
 ```
-npm install --save-dev @michielgerritsen/email-tester-api
+npm install --save-dev email-tester-api
 ```
 
 ## Configuration
