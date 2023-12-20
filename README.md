@@ -34,3 +34,8 @@ This will return a `DomDocument` object. This allows you to access the contents 
 ```js
 message.contents.querySelector('a[target="_blank"]').href
 ```
+
+
+# Fork Repo
+
+Original Repo : https://github.com/michielgerritsen/email-tester-api
