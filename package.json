@@ -1,5 +1,5 @@
 {
-  "name": "@aidalinfo/email-tester-api",
+  "name": "@killian-aidalinfo/email-tester-api",
   "version": "1.0.8",
   "description": "Access SMTP testing software (Mailhog, Mailcatcher) throug a unified API",
   "main": "index.js",
